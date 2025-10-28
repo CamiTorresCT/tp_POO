@@ -1,9 +1,5 @@
 # tp_POO
-Perfecto 👍
-Acá tenés el **README.md** listo para copiar y pegar (breve, claro y con formato correcto):
-
 ---
-
 # 🛒 Programa "Carrito de Compras" en Python
 
 Este programa simula un **carrito de compras básico** desde la consola.
